@@ -1,2 +1,2 @@
 # SQL
-SQL for geo client-server app (storage)
+SQL requests for geo client-server app (storage) and other SQL requests 
